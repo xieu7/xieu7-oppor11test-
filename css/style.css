@@ -7,11 +7,5 @@
 .bd {
     width: 100%;
     height: 570px;
-    background-color: rgb(255, 102, 0);
-}
-
-.dd {
-    width: 100%;
-    height: 10px;
-    background-color: rgb(128, 251, 255);
+    background-color: rgb(255, 0, 0);
 }
